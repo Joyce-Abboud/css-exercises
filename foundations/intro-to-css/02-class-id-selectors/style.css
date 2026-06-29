@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.odd.mul{
+    font-size: 24px;
+}
+
+.odd {
+    background-color: #e9907a;
+    font-family: Verdana, 'DejaVu Sans', sans-serif ;
+}
+
+
+#first {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#second{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 700;
+}
