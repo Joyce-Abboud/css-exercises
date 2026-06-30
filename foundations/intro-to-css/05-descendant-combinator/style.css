@@ -1,1 +1,8 @@
 /* Add CSS Styling */
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+/* can also be div p {}  oe any other combination between these 2*/
